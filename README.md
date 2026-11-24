@@ -88,6 +88,3 @@ Persistent storage can be added in a future version.
 - Generate inventory reports.
 - Add transaction history.
 
-## Author
-
-YOUR NAME
